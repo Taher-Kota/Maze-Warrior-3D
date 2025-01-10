@@ -46,7 +46,7 @@ Follow these steps to clone the repository and set up the game on your local mac
 2.  Clone the repository:
 
     ```
-    git clone <repository_url>
+    git clone https://github.com/Taher-Kota/Maze-Warrior-3D.git
     ```
 
 3.  Open Unity Hub and click on "Open Project."
