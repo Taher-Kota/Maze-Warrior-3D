@@ -1,10 +1,16 @@
-Maze Warrior 3D Game
-====================
+Maze Warrior 3D
+===================
 
 Overview
 --------
 
 Maze Warrior 3D is an action-packed adventure game built using the Unity Engine. Navigate through challenging mazes, defeat enemies, and find the path to victory in each level. With multiple levels of increasing difficulty, the game tests your strategic thinking, combat skills, and perseverance.
+
+![Screenshot 2025-01-10 170226](https://github.com/user-attachments/assets/99ccedab-6be1-456f-b7a3-9532b6740a33)
+
+![Screenshot 2025-01-10 170336](https://github.com/user-attachments/assets/f33cb455-0696-4a97-bc77-677facec128c)
+
+![Screenshot 2025-01-10 170411](https://github.com/user-attachments/assets/51d73b62-50d3-40ac-aa18-1caeccf51b5a)
 
 Features
 --------
